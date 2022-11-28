@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Send", "Send\Send.csproj", "{D5952922-A76C-4D9A-84F8-39B15AAAEDE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receive", "Receive\Receive.csproj", "{8F25A827-120C-4980-A8B4-F661E26C92CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5952922-A76C-4D9A-84F8-39B15AAAEDE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5952922-A76C-4D9A-84F8-39B15AAAEDE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5952922-A76C-4D9A-84F8-39B15AAAEDE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5952922-A76C-4D9A-84F8-39B15AAAEDE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F25A827-120C-4980-A8B4-F661E26C92CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F25A827-120C-4980-A8B4-F661E26C92CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F25A827-120C-4980-A8B4-F661E26C92CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F25A827-120C-4980-A8B4-F661E26C92CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF548EEF-5911-4C4A-A58C-547FA74C3E4C}
+	EndGlobalSection
+EndGlobal
